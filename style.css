@@ -1,19 +1,19 @@
 body {
     text-align: center;
   }
-  #Jeu {
+  #Morpion {
     display: inline-block;
     background-color: rgb(180, 153, 70);
     margin: 0 auto;
     padding: 10px;
   }
   
-  #Jeu div {
+  #Morpion div {
     margin: 0 auto;
     overflow: hidden;
   }
   
-  #Jeu button {
+  #Morpion button {
     width: 150px;
     height: 150px;
     font-weight: bold;
@@ -22,7 +22,7 @@ body {
     float:left;
   }
   
-  #StatutJeu {
+  #MorpionJeu {
     color: rgb(0, 0, 0);
     background: rgb(238, 238, 238);
     padding: 25px 0;
